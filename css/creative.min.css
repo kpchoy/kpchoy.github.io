@@ -11,3 +11,74 @@
   border-radius: 50%;
   padding-left: -20px;
 }
+
+.contact-me {
+  background: #f05f40;
+}
+
+.icons {
+  font-size: 40px;
+  text-align: center; 
+  display: flex;
+  justify-content: space-around;
+  margin-top: 50px;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.icons > a {
+  color: #212529;
+}
+
+.upper-icons {
+  font-size: 30px;
+  
+}
+
+.upper-icons > a {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.upper-icons > a {
+  text-decoration: none;
+}
+
+.proj {
+  display: flex;
+  flex-flow: row wrap;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.project-1 {
+  width: 33%;
+  text-align: center;
+}
+
+.project-1 > h1 {
+  font-size: 30px;
+  text-align: center;
+  
+}
+
+.project-1 > p {
+  font-size: 15px;
+  text-align: center;
+}
+
+.project-1-pic {
+  width: 100%;
+  box-shadow: 0 6px 6px rgba(0,0,0,0.1);
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.underline {
+  border-bottom: 3px solid;
+  margin-left: 40%;
+  margin-right: 40%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: #f05f40;
+}
