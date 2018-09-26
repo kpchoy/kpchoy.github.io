@@ -95,3 +95,21 @@
   color: white;
   
 }
+
+.resumelink {
+  color: #212529;
+  font-size: 30px;
+  border-radius: 300px;
+  margin-left: 40%;
+  margin-right: 40%;
+  margin-bottom: 40px; 
+  background-color: #f8f9fa;
+  padding: 10px;
+  display: block;
+  text-align: center;
+}
+
+.resumelink:hover {
+  color: #f05f40;
+  text-decoration: none;
+}
