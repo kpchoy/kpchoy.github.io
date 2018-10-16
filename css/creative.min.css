@@ -46,13 +46,13 @@
 
 .proj {
   display: flex;
+  flex-wrap: wrap;
   padding-top: 30px;
-  margin-left: 5%;
-  margin-right: 5%;
+  justify-content: space-around;
 }
 
 .project-1 {
-  width: 33%;
+  width: 400px;
   text-align: center;
 }
 
